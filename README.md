@@ -4,19 +4,19 @@ A full-stack web application that eliminates proxy attendance using multi-layer 
 
 ---
 
-## 🚀 Features
+## Features
 
-- ✅ **Anti-Proxy Detection** — prevents fake attendance completely
-- 🔐 **JWT Authentication** — secure login for faculty and admin
-- 🌐 **College WiFi IP Validation** — only allows marking from campus network
-- 👁️ **Face Recognition** — real-time face matching using face-api.js
-- 😉 **Liveness Detection** — blink-based check to prevent photo spoofing
-- 📊 **Admin Dashboard** — daily/monthly reports, audit logs, analytics
-- 🔒 **Role-Based Access Control** — separate access for faculty and admin
+- Anti-Proxy Detection** — prevents fake attendance completely
+- JWT Authentication** — secure login for faculty and admin
+- College WiFi IP Validation** — only allows marking from campus network
+- Face Recognition** — real-time face matching using face-api.js
+- Liveness Detection** — blink-based check to prevent photo spoofing
+- Admin Dashboard** — daily/monthly reports, audit logs, analytics
+- Role-Based Access Control** — separate access for faculty and admin
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
